@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "HTML'nin açılımı nedir?",
+    "options": ["HyperText Markup Language", "HyperLink Markup Language", "HighText Markup Language", "HyperText Machine Language", "HyperLink Machine Language"],
+    "answer": "HyperText Markup Language",
+    "kategoriId": 1
+  },
+  {
+    "id": 2,
+    "question": "HTML sayfasının başlığını belirleyen etiket hangisidir?",
+    "options": ["<title>", "<head>", "<meta>", "<header>", "<h1>"],
+    "answer": "<title>",
+    "kategoriId": 1
+  },
+  {
+    "id": 3,
+    "question": "HTML'de bir bağlantıyı oluşturmak için hangi etiket kullanılır?",
+    "options": ["<link>", "<a>", "<href>", "<anchor>", "<url>"],
+    "answer": "<a>",
+    "kategoriId": 1
+  },
+  {
+    "id": 4,
+    "question": "HTML'de bir resim eklemek için hangi etiket kullanılır?",
+    "options": ["<img>", "<picture>", "<image>", "<src>", "<media>"],
+    "answer": "<img>",
+    "kategoriId": 1
+  },
+  {
+    "id": 5,
+    "question": "HTML'de bir liste oluşturmak için kullanılan etiketler nelerdir?",
+    "options": ["<list>, <item>", "<ul>, <li>", "<ol>, <item>", "<table>, <row>", "<dl>, <dt>"],
+    "answer": "<ul>, <li>",
+    "kategoriId": 1
+  },
+  {
+    "id": 6,
+    "question": "HTML'de bir tablonun başlık satırını tanımlamak için hangi etiket kullanılır?",
+    "options": ["<thead>", "<tfoot>", "<tbody>", "<tr>", "<th>"],
+    "answer": "<thead>",
+    "kategoriId": 1
+  },
+  {
+    "id": 7,
+    "question": "HTML'de bir form oluşturmak için hangi etiket kullanılır?",
+    "options": ["<form>", "<input>", "<button>", "<fieldset>", "<submit>"],
+    "answer": "<form>",
+    "kategoriId": 1
+  },
+  {
+    "id": 8,
+    "question": "HTML'de yorum satırı eklemek için hangi işaretleme kullanılır?",
+    "options": ["<!-- yorum -->", "<!--- yorum --->", "<-- yorum -->", "// yorum", "# yorum"],
+    "answer": "<!-- yorum -->",
+    "kategoriId": 1
+  },
+  {
+    "id": 9,
+    "question": "HTML'de stil sayfasını bağlamak için hangi etiket kullanılır?",
+    "options": ["<script>", "<link>", "<style>", "<meta>", "<css>"],
+    "answer": "<link>",
+    "kategoriId": 1
+  },
+  {
+    "id": 10,
+    "question": "HTML'de metin içi stil uygulamak için hangi etiket kullanılır?",
+    "options": ["<span>", "<div>", "<p>", "<em>", "<strong>"],
+    "answer": "<span>",
+    "kategoriId": 1
+  },
+  {
+    "id": 11,
+    "question": "CSS'nin açılımı nedir?",
+    "options": ["Cascading Style Sheets", "Cascading Simple Sheets", "Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets",
+    "kategoriId": 2
+  },
+  {
+    "id": 12,
+    "question": "CSS'de bir stil tanımlamak için hangi etiket kullanılır?",
+    "options": ["<style>", "<css>", "<script>", "<link>", "<stylesheet>"],
+    "answer": "<style>",
+    "kategoriId": 2
+  },
+  {
+    "id": 13,
+    "question": "CSS'de bir elementi seçmek için hangi yöntem kullanılır?",
+    "options": ["Class", "ID", "Element", "Attribute", "Pseudo-class"],
+    "answer": "Class",
+    "kategoriId": 2
+  },
+  {
+    "id": 14,
+    "question": "CSS'de renk kodlarını hangi formatlarda kullanabilirsiniz?",
+    "options": ["HEX, RGB, HSL", "HEX, CMYK, LAB", "RGB, HSL, LAB", "HEX, CMYK, LAB", "RGB, CMYK, LAB"],
+    "answer": "HEX, RGB, HSL",
+    "kategoriId": 2
+  },
+  {
+    "id": 15,
+    "question": "CSS'de bir öğenin arka plan rengini nasıl değiştirebilirsiniz?",
+    "options": ["background-color", "color", "border-color", "background-image", "background"],
+    "answer": "background-color",
+    "kategoriId": 2
+  },
+  {
+    "id": 16,
+    "question": "CSS'de yazı tipi boyutunu ayarlamak için hangi özellik kullanılır?",
+    "options": ["font-size", "text-size", "font-style", "text-font", "size"],
+    "answer": "font-size",
+    "kategoriId": 2
+  },
+  {
+    "id": 17,
+    "question": "CSS'de bir öğenin kenar boşluklarını ayarlamak için hangi özellik kullanılır?",
+    "options": ["padding", "margin", "border", "spacing", "outline"],
+    "answer": "margin",
+    "kategoriId": 2
+  },
+  {
+    "id": 18,
+    "question": "CSS'de bir öğenin iç boşluklarını ayarlamak için hangi özellik kullanılır?",
+    "options": ["padding", "margin", "border", "gap", "space"],
+    "answer": "padding",
+    "kategoriId": 2
+  },
+  {
+    "id": 19,
+    "question": "CSS'de bir öğeyi yatay ve dikey olarak ortalamak için hangi özellik kullanılır?",
+    "options": ["align", "justify", "text-align", "margin", "flex"],
+    "answer": "flex",
+    "kategoriId": 2
+  },
+  {
+    "id": 20,
+    "question": "CSS'de bir öğenin gizlenmesini sağlamak için hangi özellik kullanılır?",
+    "options": ["display: none;", "visibility: hidden;", "opacity: 0;", "position: absolute;", "float: none;"],
+    "answer": "display: none;",
+    "kategoriId": 2
+  },
+  {
+    "id": 21,
+    "question": "JavaScript'te değişken tanımlamak için hangi anahtar kelime kullanılır?",
+    "options": ["var", "let", "const", "var, let, const", "let, const"],
+    "answer": "var, let, const",
+    "kategoriId": 3
+  },
+  {
+    "id": 22,
+    "question": "JavaScript'te bir fonksiyon nasıl tanımlanır?",
+    "options": ["function myFunction() {}", "func myFunction() {}", "define myFunction() {}", "function: myFunction() {}", "fn myFunction() {}"],
+    "answer": "function myFunction() {}",
+    "kategoriId": 3
+  },
+  {
+    "id": 23,
+    "question": "JavaScript'te bir diziye nasıl erişilir?",
+    "options": ["array[index]", "array.get(index)", "array[index+1]", "array.at(index)", "array[index] or array.get(index)"],
+    "answer": "array[index]",
+    "kategoriId": 3
+  },
+  {
+    "id": 24,
+    "question": "JavaScript'te olay dinleyicisi nasıl eklenir?",
+    "options": ["element.addEventListener('event', callback)", "element.on('event', callback)", "element.addEvent('event', callback)", "element.listen('event', callback)", "element.eventListener('event', callback)"],
+    "answer": "element.addEventListener('event', callback)",
+    "kategoriId": 3
+  },
+  {
+    "id": 25,
+    "question": "JavaScript'te bir nesne nasıl oluşturulur?",
+    "options": ["let obj = {}", "let obj = new Object()", "let obj = Object.create()", "let obj = new Object({})", "let obj = {} or let obj = new Object()"],
+    "answer": "let obj = {} or let obj = new Object()",
+    "kategoriId": 3
+  },
+  {
+    "id": 26,
+    "question": "JavaScript'te bir dizeyi (string) nasıl birleştirirsiniz?",
+    "options": ["string1 + string2", "concat(string1, string2)", "append(string1, string2)", "string1.add(string2)", "string1.merge(string2)"],
+    "answer": "string1 + string2",
+    "kategoriId": 3
+  },
+  {
+    "id": 27,
+    "question": "JavaScript'te bir değeri tam sayıya dönüştürmek için hangi fonksiyon kullanılır?",
+    "options": ["parseInt()", "toInteger()", "convertToInt()", "int()", "parseNumber()"],
+    "answer": "parseInt()",
+    "kategoriId": 3
+  },
+  {
+    "id": 28,
+    "question": "JavaScript'te bir döngü oluşturmak için hangi yapı kullanılır?",
+    "options": ["for, while, do...while", "loop, iterate, repeat", "foreach, until, loop", "forEach, iterate, repeat", "loop, while, forEach"],
+    "answer": "for, while, do...while",
+    "kategoriId": 3
+  },
+  {
+    "id": 29,
+    "question": "JavaScript'te bir nesnenin bir özelliğine nasıl erişirsiniz?",
+    "options": ["object.property", "object[property]", "object->property", "object.get(property)", "object.access(property)"],
+    "answer": "object.property or object[property]",
+    "kategoriId": 3
+  },
+  {
+    "id": 30,
+    "question": "JavaScript'te bir değişkenin türünü öğrenmek için hangi fonksiyon kullanılır?",
+    "options": ["typeof", "type", "instanceof", "classOf", "getType"],
+    "answer": "typeof",
+    "kategoriId": 3
+  },
+  {
+    "id": 31,
+    "question": "A11y nedir?",
+    "options": ["Erişilebilirlik", "Web tarayıcısı", "Yazılım geliştirme", "Kullanıcı arayüzü", "Eğitim"],
+    "answer": "Erişilebilirlik",
+    "kategoriId": 4
+  },
+  {
+    "id": 32,
+    "question": "Ekran okuyucular hangi kullanıcılar için kullanılır?",
+    "options": ["Görme engelli kullanıcılar", "Görme engelli ve işitme engelli kullanıcılar", "Görme engelli ve motor beceri sorunu yaşayan kullanıcılar", "İşitme engelli kullanıcılar", "Motor beceri sorunu yaşayan kullanıcılar"],
+    "answer": "Görme engelli kullanıcılar",
+    "kategoriId": 4
+  },
+  {
+    "id": 33,
+    "question": "A11y uygulamalarında 'alt' metin ne amaçla kullanılır?",
+    "options": ["Görme engelli kullanıcılar için resim açıklaması", "Görme engelli kullanıcılar için ses açıklaması", "İşitme engelli kullanıcılar için video açıklaması", "Web sayfasının başlığı", "Yazı tipi açıklaması"],
+    "answer": "Görme engelli kullanıcılar için resim açıklaması",
+    "kategoriId": 4
+  },
+  {
+    "id": 34,
+    "question": "Tabloların erişilebilirliği nasıl sağlanır?",
+    "options": ["Tablo başlıkları ve açıklamaları ekleyerek", "Renk kontrastını artırarak", "Tabloları resim olarak sunarak", "Tabloları yalnızca metin olarak sunarak", "Tabloları yalnızca görsel olarak sunarak"],
+    "answer": "Tablo başlıkları ve açıklamaları ekleyerek",
+    "kategoriId": 4
+  },
+  {
+    "id": 35,
+    "question": "Erişilebilirlik açısından 'aria-label' nedir?",
+    "options": ["Bir öğeye erişilebilirlik açıklaması ekler", "Bir öğenin görsel stilini değiştirir", "Bir öğenin renk kontrastını artırır", "Bir öğeye ses efekti ekler", "Bir öğenin konumunu değiştirir"],
+    "answer": "Bir öğeye erişilebilirlik açıklaması ekler",
+    "kategoriId": 4
+  },
+  {
+    "id": 36,
+    "question": "ARIA (Accessible Rich Internet Applications) nedir?",
+    "options": ["Web erişilebilirliğini artırmak için kullanılan bir dizi etiket ve özellik", "Web sayfalarını hızlı yüklemek için kullanılan bir teknoloji", "Görsel tasarımı iyileştirmek için kullanılan bir stil kiti", "Veri tabanları ile ilgili bir erişim yönetim aracı", "Web tarayıcılarının performansını artıran bir yazılım"],
+    "answer": "Web erişilebilirliğini artırmak için kullanılan bir dizi etiket ve özellik",
+    "kategoriId": 4
+  },
+  {
+    "id": 37,
+    "question": "Erişilebilirlik açısından form etiketleri neden önemlidir?",
+    "options": ["Ekran okuyucuların form alanlarını doğru şekilde tanıyabilmesi için", "Formları daha hızlı yüklemek için", "Kullanıcıların form verilerini hızlıca girmesi için", "Formların görsel tasarımını iyileştirmek için", "Formları otomatik olarak doldurmak için"],
+    "answer": "Ekran okuyucuların form alanlarını doğru şekilde tanıyabilmesi için",
+    "kategoriId": 4
+  },
+  {
+    "id": 38,
+    "question": "Hangi HTML etiketi, görme engelli kullanıcılar için video açıklamaları eklemeye yardımcı olur?",
+    "options": ["<track>", "<video>", "<audio>", "<source>", "<caption>"],
+    "answer": "<track>",
+    "kategoriId": 4
+  },
+  {
+    "id": 39,
+    "question": "Erişilebilirlik açısından 'focus' yönetimi neden önemlidir?",
+    "options": ["Klavye ile gezinmeyi ve etkileşimi kolaylaştırmak için", "Renk kontrastını iyileştirmek için", "Görsel öğeleri düzenlemek için", "Web sayfalarının hızını artırmak için", "Formları doğrulamak için"],
+    "answer": "Klavye ile gezinmeyi ve etkileşimi kolaylaştırmak için",
+    "kategoriId": 4
+  },
+  {
+    "id": 40,
+    "question": "Hangi HTML özelliği, kullanıcıların web içeriği ile etkileşimde bulunurken erişilebilirlik desteği sağlar?",
+    "options": ["tabindex", "aria-hidden", "role", "aria-live", "alt"],
+    "answer": "tabindex",
+    "kategoriId": 4
+  }
+]

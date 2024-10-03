@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "konu": "HTML"
+  },
+  {
+    "id": 2,
+    "konu": "CSS"
+  },
+  {
+    "id": 3,
+    "konu": "JS"
+  },
+  {
+    "id": 4,
+    "konu": "Accessibility"
+  }
+]
